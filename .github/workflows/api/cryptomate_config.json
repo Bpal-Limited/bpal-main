@@ -1,0 +1,6 @@
+{
+  "alias": "Sandbox_Bpalwallet",
+  "apiKey": "api-55c7d1ca-35cf-40ca-8942-47754e99aab9",
+  "environment": "sandbox",
+  "baseUrl": "https://sandbox.cryptomate.me/api"
+}
